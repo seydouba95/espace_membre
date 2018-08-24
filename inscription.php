@@ -80,7 +80,7 @@
 <head>
     <meta charset="utf-8" />
    
-    <title>TUTO PHP</title>
+    <title>Inscription</title>
    
 </head>
 <body>
